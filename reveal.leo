@@ -27,8 +27,8 @@
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151108170746.1"><vh>@edit 2015cphww2.md</vh></v>
-<v t="leo.20151029163930.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151108172524.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20151029163930.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151108173454.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151029183330.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151108174401.1"><vh>@edit 2015cphww7.md</vh></v>
@@ -280,7 +280,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -1778,7 +1778,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139 陳延誠 &lt;/p&gt;		
+    &lt;p&gt;40323139 陳延誠2015/09/17 &lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -1975,7 +1975,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139陳延誠2015/10/08&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2047,7 +2047,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139 陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139 陳延誠2015/10/22&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2119,7 +2119,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139陳延誠2015/09/24&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2191,7 +2191,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139陳延誠2015/10/01&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2263,7 +2263,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139陳延誠2015/10/15&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2337,7 +2337,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139 陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139 陳延誠2015/10/29&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2411,7 +2411,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323139 陳延誠&lt;/p&gt;		
+    &lt;p&gt;40323139 陳延誠2015/11/05&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
